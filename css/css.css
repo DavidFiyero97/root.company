@@ -1,0 +1,60 @@
+._d01
+{
+	position: relative;
+	width: auto;
+	height: auto; 
+	text-align: center;  
+	/*border: 3px solid #ff9800;*/
+}
+._d02
+{ 
+	position: relative;
+	width: auto;
+	height: 600px;   
+}
+
+._d03
+{ 
+	position: relative;
+	width: auto;
+	height: auto; 
+	text-align: center;   
+}
+h1
+{
+	position: relative;
+	font-size: 80px;	
+	color: darkcyan;
+	font-family: 'Press Start 2P', cursive;  
+}
+h2
+{
+	position: relative;
+	top: -60px;
+	left: 50px;
+	font-size: 22px;	
+	color: wheat;  
+}
+h3
+{
+	position: relative;
+	font-size: 15px;	
+	color: white;
+}
+h4{
+	position: relative;
+	font-size: 15px;	
+	color: white;
+	top: -617px;
+	left: 10PX;
+}
+._i01
+{
+	position: relative;
+}
+._i02
+{
+	position: relative;
+	left: 90;
+	top: -5px; 
+}
